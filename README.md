@@ -31,6 +31,5 @@ We want everyone in this community to feel welcome and respected. Please review 
 This repository is under the [MIT License](LICENSE). Feel free to use the content with proper attribution.
 
 ## 📧 Contact
-Have any questions or suggestions? You can reach out to us via email at securecoders@example.com.
-
+Have any questions or suggestions? You can reach out to us via email at aaron@agcd.io.
 Start exploring and contributing today! 🚀 Together, let's strengthen the armor of secure coding practices and safeguard the digital world. Happy coding! 😊🔒
